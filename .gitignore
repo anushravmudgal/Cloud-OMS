@@ -10,3 +10,13 @@ buildNumber.properties
 # https://github.com/takari/maven-wrapper#usage-without-binary-jar
 .mvn/wrapper/maven-wrapper.jar
 application.properties
+vault.exe
+.vault-token
+.vault_pass
+vault-data/
+*.pem
+*.key
+*.crt
+vault-config.hcl
+vault.txt
+
